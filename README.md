@@ -20,7 +20,7 @@ ccwc [option] [filename]
     - `-l`: Count lines
     - `-w`: Count words
     - `-m`: Count characters
-    If no option is provided, the default behavior is to count lines, words, and bytes.
+    - If no option is provided, the default behavior is to count lines, words, and bytes.
 2. `filename`: (Optional) Path to the file you want to analyze. If no filename is provided, the script reads from standard input.
 
 ### Examples
